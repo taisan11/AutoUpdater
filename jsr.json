@@ -1,4 +1,5 @@
 {
-    "name":"AutoUpdater",
-    "version":"0.0.1"
+    "name": "@taisan11/autoupdater",
+    "version": "0.0.1",
+    "exports": "./index.ts"
 }
